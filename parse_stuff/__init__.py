@@ -4,4 +4,4 @@
 
 __author__ = """parse_stuff"""
 __email__ = 'audreyr@example.com'
-__version__ = '0.1.0'
+__version__ = '0.1.1'
